@@ -1,0 +1,5 @@
+# Ignoring ouput files
+*.o
+
+# Ignoring the executable
+main
