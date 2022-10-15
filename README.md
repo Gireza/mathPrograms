@@ -1,5 +1,5 @@
 # mathPrograms
 
-**Programming certain mathematics exercises (and also to make me remmember a bit about C programming)**
+**Programming certain mathematics exercises (practicing C)**
 
 "tp*" means "travaux pratiques" aka "practice exercises"
