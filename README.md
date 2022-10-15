@@ -1,2 +1,3 @@
 # mathPrograms
-Exercises in mathematics
+
+Programming certain mathematics exercises (and also to make me remmember a bit about C programming)
